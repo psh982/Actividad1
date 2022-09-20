@@ -1,11 +1,11 @@
 # Actividad1
 # Evaluacion Inicial
 ## 1. ¿Qué es una página web?
-Respuesta.
+Conjunto de información que se encuentra en una dirección determinada de internet.
 ## 2. ¿Qué es un sitio web?
-Respuesta.
+Un sitio web es un conjunto de páginas web accesibles a través de internet, convenientemente enlazadas y con una finalidad concreta
 ## 3. ¿Qué es una aplicación web?
-Respuesta.
+Una aplicación Web es un sitio Web que contiene páginas con contenido sin determinar, parcialmente o en su totalidad.
 ## 4. ¿Qué es una herramienta ofimática?
 Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
 presentación
