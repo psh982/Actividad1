@@ -4,12 +4,12 @@
 Respuesta.
 ## 2. ¿Qué es un sitio web?
 Respuesta.
-3. ¿Qué es una aplicación web?
+## 3. ¿Qué es una aplicación web?
 Respuesta.
-4. ¿Qué es una herramienta ofimática?
+## 4. ¿Qué es una herramienta ofimática?
 Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
 presentación
-5. Herramientas de Google:
+## 5. Herramientas de Google:
 Aplicaciones Visto
 | Google Docs |
 | Google Slides |
