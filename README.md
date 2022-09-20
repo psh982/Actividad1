@@ -11,6 +11,7 @@ Es una aplicación (en local o en linea) que permite editar un texto, una hoja d
 presentación
 ## 5. Herramientas de Google:
 | Aplicaciones | | Visto |
+| ............ | | ..... |
 | Google Docs | | r |
 | Google Slides |
 | Google Sheets |
